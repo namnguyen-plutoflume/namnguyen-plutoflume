@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AWS,Kubernets,Python,any DevOps practices and topics
 - 📫 How to reach me via 
   - Slack: Nam Nguyen
-  - Email: nam.nguyen@tessian.com
+  - Email: nanguyen@proofpoint.com
 
 <!---
 namnguyen-plutoflume/namnguyen-plutoflume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
